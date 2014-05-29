@@ -19,3 +19,15 @@ Git
 	- git commit -a = add all changes to this commit
 	- git commit -am "message" = adds all changes with message
 	- git tag = tags a version with a name, git tag tag_name
+	- git diff = shows the differences of all files changed and not staged
+	- git diff cached = shows differences of all changes that are staged
+	- git checkout [branch name] = switch current branch to [branch name]
+	- git checkout -b [branch name] = switch current branch to new branch
+	- git checkout DEADBEEF = switch current branch to some version
+	- git checkout [file name] = discards all changes in file, resetting to current version
+	- git checkout [version] and [file name] = where [version] can be SHA1 or branch or ta, this checks out version of file, and stages for commit
+	- git checkout [version] . = WARNING destructive, this removes all unstaged changes and checks out version
+	- git log = 
+	- git log --oneline = 
+	- git log --graph = 
+	- git log --stat = 
