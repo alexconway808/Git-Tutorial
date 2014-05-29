@@ -1,0 +1,13 @@
+Commands
+
+vim
+	- quit is :q!
+	- write and quit is :wq!
+	- INSERT mode is i
+	- exiting insert mode is esc
+
+Git
+
+	- git init = this initializes an empty repo
+	- git status = look at current state of repo
+	- git add = add file to "staged changes"
