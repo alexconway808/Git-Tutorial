@@ -18,3 +18,4 @@ Git
 	- git commit = saves version snapshot or repo
 	- git commit -a = add all changes to this commit
 	- git commit -am "message" = adds all changes with message
+	- git tag = tags a version with a name, git tag tag_name
