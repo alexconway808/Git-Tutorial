@@ -31,3 +31,7 @@ Git
 	- git log --oneline = 
 	- git log --graph = 
 	- git log --stat = 
+	- git push = pushes commits up to remote server (like github.com)
+	- git push origin [branch name] = pushes branch up to remote server
+	- git push --tags = pushes all tags up to remote server
+	- git remote add [remote name] [remote address]
