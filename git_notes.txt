@@ -1,9 +1,9 @@
 Commands
 
-vim
+Vim
 	- quit is :q!
 	- write and quit is :wq!
-	- INSERT mode is i
+	- INSERT mode is i to start typing
 	- exiting insert mode is esc
 
 Git
@@ -11,3 +11,10 @@ Git
 	- git init = this initializes an empty repo
 	- git status = look at current state of repo
 	- git add = add file to "staged changes"
+	- git config --global user.name
+	- git config --global user.email
+	- git config --global core.editor subl
+	- git config --global --edit
+	- git commit = saves version snapshot or repo
+	- git commit -a = add all changes to this commit
+	- git commit -am "message" = adds all changes with message
